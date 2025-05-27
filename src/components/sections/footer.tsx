@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="relative flex flex-col min-h-screen">
       <div className="relative flex md:flex-row flex-col min-h-screen items-center justify-center bg-[#232233] lg:space-x-24 lg:px-6 lg:py-12 md:space-x-8 md:px-4 md:py-8 space-y-8 h-auto">
-        <div className="flex flex-col flex-1 items-start justify-start relative z-10 md:px-4 md:mt-0 px-2 mt-60">
+        <div className="flex flex-col flex-1 items-start justify-start relative z-10 md:px-4 md:mt-0 px-2 mt-60 ml-2">
           <h1 className="text-white font-bold lg:text-4xl text-2xl mb-4">
             LOGO
           </h1>
